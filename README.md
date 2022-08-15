@@ -16,6 +16,8 @@ This is a fun exercise that lets you add multiple PacMen, and send them travelin
 - Press the buttons to play the game.
 - Reload the page to reset and start over.
 
+You can also see a working demo <a href="https://lkmitx.github.io/pacmen-exercise/" target="_blank">here</a>.
+
 ## Roadmap of Future Improvements
 
 Further development of this repository could include the following:
